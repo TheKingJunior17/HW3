@@ -1,0 +1,12 @@
+/**
+ * This method tests the functionality of sending a clarification request.
+ * It checks if the request is properly sent and associated with the correct question.
+ *
+ * @param questionId The ID of the question to clarify.
+ * @param clarificationText The clarification text provided by the user.
+ * @throws ClarificationRequestException If the request fails to send.
+ * @throws InvalidQuestionException If the specified question is not valid.
+ */
+public void testRequestClarification(int questionId, String clarificationText) throws ClarificationRequestException, InvalidQuestionException {
+    // Your method implementation
+}
